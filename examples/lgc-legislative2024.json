@@ -1,0 +1,104 @@
+[
+    {
+        "label": "MAIRIE - SALLE DES MARIAGES",
+        "lat": 48.90672,
+        "lng": 2.24641,
+        "values": [25.93, 12.09, 0.1, 60.85, 1.03]
+    },
+    {
+        "label": "ECOLE MATERNELLE VOLTAIRE",
+        "lat": 48.90714,
+        "lng": 2.24917,
+        "values": [18.0, 16.0, 0.5, 64.5, 1.0]
+    },
+    {
+        "label": "ECOLE ELEMENTAIRE VOLTAIRE",
+        "lat": 48.908,
+        "lng": 2.24854,
+        "values": [26.85, 12.36, 0.56, 59.44, 0.79]
+    },
+    {
+        "label": "COLLEGE LES VALLEES",
+        "lat": 48.90774,
+        "lng": 2.25566,
+        "values": [33.92, 15.57, 1.32, 48.16, 1.03]
+    },
+    {
+        "label": "FOYER ARTS ET LOISIRS",
+        "lat": 48.91084,
+        "lng": 2.25289,
+        "values": [34.22, 14.58, 0.96, 49.4, 0.84]
+    },
+    {
+        "label": "ECOLE ELEMENTAIRE JEAN JERPHANION",
+        "lat": 48.90825,
+        "lng": 2.25172,
+        "values": [22.59, 13.71, 0.51, 61.29, 1.9]
+    },
+    {
+        "label": "FOYER ANCIENS GARENNOIS BOHN CANTIN",
+        "lat": 48.9084,
+        "lng": 2.24536,
+        "values": [21.35, 11.39, 0.24, 66.19, 0.83]
+    },
+    {
+        "label": "ECOLE ELEMENTAIRE RENAN",
+        "lat": 48.90776,
+        "lng": 2.24011,
+        "values": [29.4, 13.34, 0.83, 55.25, 1.18]
+    },
+    {
+        "label": "ECOLE MATERNELLE RENE GUEST",
+        "lat": 48.90648,
+        "lng": 2.23545,
+        "values": [39.66, 13.06, 0.78, 45.26, 1.24]
+    },
+    {
+        "label": "MAIRIE-SALLE ANNEXE",
+        "lat": 48.90672,
+        "lng": 2.24641,
+        "values": [19.84, 14.09, 0.1, 65.08, 0.89]
+    },
+    {
+        "label": "THEATRE DE LA GARENNE-COLOMBES",
+        "lat": 48.90524,
+        "lng": 2.23427,
+        "values": [38.1, 16.02, 0.93, 44.01, 0.93]
+    },
+    {
+        "label": "ECOLE MATERNELLE RENAN",
+        "lat": 48.90831,
+        "lng": 2.23915,
+        "values": [29.13, 13.59, 0.28, 55.88, 1.12]
+    },
+    {
+        "label": "ECOLE SAGOT VOLTAIRE",
+        "lat": 48.908,
+        "lng": 2.24854,
+        "values": [25.66, 13.44, 1.13, 58.08, 1.69]
+    },
+    {
+        "label": "ECOLE ELEMENTAIRE ANDRE MARSAULT",
+        "lat": 48.90789,
+        "lng": 2.25772,
+        "values": [25.99, 11.08, 0.55, 61.42, 0.96]
+    },
+    {
+        "label": "ECOLE SAINTE GENEVIEVE",
+        "lat": 48.90924,
+        "lng": 2.24815,
+        "values": [23.31, 12.63, 0.23, 62.11, 1.72]
+    },
+    {
+        "label": "FOYER DES ASSOCIATIONS PATRIOTIQUES",
+        "lat": 48.90536,
+        "lng": 2.25192,
+        "values": [22.34, 17.07, 0.98, 58.15, 1.46]
+    },
+    {
+        "label": "COLL\u00c8GE LES CHAMPS PHILIPPE",
+        "lat": 48.9045,
+        "lng": 2.23165,
+        "values": [33.52, 15.52, 0.79, 48.36, 1.81]
+    }
+]

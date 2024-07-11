@@ -1,0 +1,21 @@
+{
+    "name": "rc-charts",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "example": "examples"
+    },
+    "scripts": {
+        "build:js": "uglifyjs src/leaflet.barChart.js -c -m reserved=['L','BarChart','barChart'] -o dist/leaflet.barChart.min.js",
+        "build:css": "uglifycss src/leaflet.barChart.css > dist/leaflet.barChart.min.css",
+        "build": "npm run build:js && npm run build:css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "uglify-js": "^3.17.4",
+        "uglifycss": "^0.0.29"
+    }
+}

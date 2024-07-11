@@ -1,0 +1,33 @@
+.lBarLegend {
+    background: white;
+    padding: 1em;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.lBarTitle {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.lBarSubTitle {
+    font-size: 1em;
+    font-style: italic;
+}
+
+.lBarLigne {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+}
+.lBarSquare {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+.lBarLegend .lBarSquare {
+    width: 20px;
+    height: 20px;
+}
+.lBarLegend .lBarLigne {
+    font-size: 1.2em;
+}
