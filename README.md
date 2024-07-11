@@ -1,8 +1,8 @@
 # Leaflet.BarChart
 
-Leaflet.BarChart is a leaflet plugin for addin bar charts on a leaflet map.
+**Leaflet.BarChart** is a leaflet plugin for addin bar charts on a leaflet map.
 
-Made with ❤️ by [Richard Carlier](https://www.linkedin.com/in/rcarlier/) at La Garenne Colombes.
+Made with ❤️ by [Richard Carlier](https://www.linkedin.com/in/rcarlier/) at _La Garenne Colombes_ (France).
 
 ## Usage
 
@@ -16,7 +16,7 @@ You need to include the `leaflet` CSS/JS and `Leaflet.BarChart` CSS/JS (you can 
 <script src="lib/leaflet.barChart.min.js"></script>
 ```
 
-@soon : CDN ...
+<mark>@soon</mark> : CDN ...
 
 You can create barCharts with `L.barChart()`, and add it to map.
 
@@ -79,7 +79,7 @@ Default colors:
 
 See `examples/` folder for full examples...
 
-### Sample
+### Sample minimal
 
 ![](assets/sample.png)
 
@@ -104,7 +104,7 @@ L.barChart({
 
 ![](assets/lgc-legislatives2024.png)
 
-Options :
+#### Options used :
 
 ```json
 {
@@ -120,7 +120,7 @@ Options :
 }
 ```
 
-Data source :
+#### Data source :
 
 -   [Géolocalisation des bureaux de vote](https://www.data.gouv.fr/fr/datasets/geolocalisation-des-bureaux-de-vote/)
 -   [Élections législatives du 30 juin 2024 - Résultats définitifs du 1er tour](https://www.data.gouv.fr/fr/datasets/elections-legislatives-des-30-juin-et-7-juillet-2024-resultats-definitifs-du-1er-tour/)
@@ -132,7 +132,7 @@ Not the best tool to see this, but as a crash test...
 
 ![](assets/earthquakes.png)
 
-Options :
+#### Options used :
 
 ```json
 {
@@ -140,14 +140,18 @@ Options :
     "subTitle": "57.460 Significant Earthquakes",
     "colors": ["#FF0000"],
     "width": 1.5,
-    "height": 0, // not used
-    "zoom": 0.5, // real values * zoom
+    "height": 0,
+    "zoom": 0.5,
     "showLegendInPopup": false,
     "showLegend": false
 }
 ```
 
-Data source :
+#### Note :
+
+-   `height` is not used, because `zoom` is set...
+
+#### Data source :
 
 -   [Significant Earthquakes, 1900-Present](https://www.kaggle.com/datasets/usamabuttar/significant-earthquakes)
 -   And some Python code to clean it...
