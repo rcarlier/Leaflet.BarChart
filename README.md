@@ -4,6 +4,8 @@
 
 Made with ❤️ by [Richard Carlier](https://www.linkedin.com/in/rcarlier/) at _La Garenne Colombes_ (France).
 
+![](assets/lgc-legislatives2024.png)
+
 ## Usage
 
 You need to include the `leaflet` CSS/JS and `Leaflet.BarChart` CSS/JS (you can customize CSS)
