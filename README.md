@@ -1,7 +1,7 @@
 # Leaflet.BarChart
 
 ![Static Badge](https://img.shields.io/badge/Creator-Richard_Carlier-blue)
-![Static Badge](https://img.shields.io/badge/version-1_00-red)
+![Static Badge](https://img.shields.io/badge/version-1.00-red)
 
 **Leaflet.BarChart** is a leaflet plugin for addin bar charts on a leaflet map.
 
